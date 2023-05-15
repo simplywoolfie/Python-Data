@@ -1,4 +1,5 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+<h1 align="center">Hi 👋, I'm Kernius</h1>
 
 # Robert Gordon University Coursework and Personal Projects
 
