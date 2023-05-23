@@ -6,7 +6,7 @@
 ## Overview
 Welcome to my GitHub repository! This is a compilation of my personal projects and coursework from my studies at Robert Gordon University, with a strong focus on Python and Data Analysis. Here, you will find a diverse range of assignments, projects, and experiments that I have conducted, demonstrating my growing skills and knowledge in data science and Python programming.
 
-- 🔭 I’m currently working on **various data science projects**
+- 🔭 I’m currently working on **various data science projects, obtaining Google Data Analyst Certificate, and IBM Data Science Certificate**
 
 - 🌱 I’m currently learning **R language**
 
