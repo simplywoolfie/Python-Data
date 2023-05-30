@@ -10,7 +10,7 @@ Welcome to my GitHub repository! This is a compilation of my personal projects a
 
 - 🌱 I’m currently learning **R language**
 
-- 📫 How to reach me **kerniux72@gmail.com**
+- 📫 How to reach me **kerniux72@gmail.com**, My <a href="https://www.linkedin.com/in/kernius-pocius-888691172/">LinkedIn</a>
 
 - ⚡ Fun fact **I'm funny, or at least I'd like to think I am**
 
